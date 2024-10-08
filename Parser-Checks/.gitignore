@@ -1,0 +1,10 @@
+.env
+creds.json
+out.csv
+out.json
+__pycache__/
+test
+june.csv
+june.error.jsonl
+june.jsonl
+unparseable.jsonl
