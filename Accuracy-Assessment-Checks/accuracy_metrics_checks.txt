@@ -1,0 +1,11 @@
+Field-level accuracies:
+Bank Name: 66.67%
+Victim Name: 73.33%
+Victim Address: 83.33%
+Check Amount: 60.00%
+
+Record-level accuracy: 33.33%
+
+Precision: 93.75%
+Recall: 100.00%
+F1 Score: 96.77%

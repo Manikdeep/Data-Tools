@@ -1,0 +1,9 @@
+Field-level accuracies:
+Digital Payment Type: 78.57%
+Amount: 96.43%
+
+Record-level accuracy: 78.57%
+
+Precision: 100.00%
+Recall: 100.00%
+F1 Score: 100.00%

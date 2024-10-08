@@ -1,0 +1,24 @@
+Classification report for Bank Name:
+                        precision    recall  f1-score   support
+
+       bank of america       1.00      1.00      1.00         1
+            bankunited       1.00      1.00      1.00         1
+      capital one bank       1.00      1.00      1.00         2
+                 chase       1.00      1.00      1.00         1
+              citibank       1.00      1.00      1.00         1
+           citibank na       1.00      1.00      1.00         1
+         citizens bank       1.00      1.00      1.00         1
+  conway national bank       1.00      1.00      1.00         1
+         greater metro       1.00      1.00      1.00         1
+ guardian credit union       0.33      1.00      0.50         1
+              jpmorgan       1.00      1.00      1.00         1
+jpmorgan chase bank na       1.00      1.00      1.00         2
+ landmark credit union       0.00      0.00      0.00         1
+               td bank       1.00      1.00      1.00         3
+            td bank na       1.00      1.00      1.00         1
+united states treasury       1.00      0.20      0.33        10
+               us bank       0.00      0.00      0.00         1
+
+             micro avg       0.91      0.67      0.77        30
+             macro avg       0.84      0.84      0.81        30
+          weighted avg       0.91      0.67      0.69        30

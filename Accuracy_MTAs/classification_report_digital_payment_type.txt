@@ -1,0 +1,13 @@
+Classification report for Digital Payment Type:
+              precision    recall  f1-score   support
+
+                   0.00      0.00      0.00         1
+     cashapp       0.89      0.80      0.84        20
+       chime       0.00      0.00      0.00         1
+    coinbase       1.00      1.00      1.00         2
+      paypal       0.75      1.00      0.86         3
+       zelle       1.00      1.00      1.00         1
+
+   micro avg       0.88      0.79      0.83        28
+   macro avg       0.61      0.63      0.62        28
+weighted avg       0.82      0.79      0.80        28

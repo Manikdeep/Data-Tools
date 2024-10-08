@@ -1,0 +1,10 @@
+Field-level accuracies:
+Bank_Name: 89.89%
+Account_Type: 71.91%
+Amount: 58.43%
+
+Record-level accuracy: 46.07%
+
+Precision: 98.89%
+Recall: 97.80%
+F1 Score: 98.34%
