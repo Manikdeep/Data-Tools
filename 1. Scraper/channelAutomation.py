@@ -78,7 +78,6 @@ for channel in channels[::-1]:
     wait(7)
     if exists(Pattern("1685770626175.png").targetOffset(6,1)):
             doubleClick(Pattern("1685770626175.png").targetOffset(6,1))
-    #click(Pattern("1675312416949.png").targetOffset(0,-4))
     else:
             doubleClick(Pattern("1716963056932.png").targetOffset(-1,0))
 
@@ -96,12 +95,10 @@ for channel in channels[::-1]:
     #click()
   
     click(Pattern("1651683858061.png").similar(0.80).targetOffset(122,1))
-    #channelsCompleted.write(channel.strip() + '\n')
     while not exists(Pattern("1650054668601.png").targetOffset(9,-3)):
         wait(7)
     if exists:
         click(Pattern("1667926797997.png").targetOffset(146,-1))
-        #click(Pattern("1667926797997.png").targetOffset(150,-2))
     channelsCompleted.write(channel.strip() + '\n')
     channelsCompleted.close()
 print("Telegram Channels Download - Done!!!")
